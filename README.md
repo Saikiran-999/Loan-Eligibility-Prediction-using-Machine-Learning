@@ -1,7 +1,3 @@
-Here’s a **professional, clean, and internship-ready `README.md`** for the **Loan Eligibility Prediction** project by **ronbodnar**, customized for your submission to Microsoft Azure AICTE.
-
----
-
 ## 🏦 Loan Eligibility Prediction using Machine Learning
 
 ### 📌 Project Overview
@@ -76,7 +72,7 @@ The model was built and tested using a Jupyter Notebook with essential Python li
 
 ---
 
-### 📌 Applications
+### 🧠 Applications
 
 * Used by banks to automate loan approval.
 * Helps reduce manual verification time.
