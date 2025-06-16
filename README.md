@@ -83,4 +83,4 @@ The model was built and tested using a Jupyter Notebook with essential Python li
 
 *   Dataset Source: UCI Machine Learning Repository (via GitHub)
 
- *  Code Reference: 
+ *  Code Reference: https://github.com/Saikiran-999/Loan-Eligibility-Prediction-using-Machine-Learning.git
